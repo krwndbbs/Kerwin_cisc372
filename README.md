@@ -1,3 +1,9 @@
 <img src="media/WandMgymnast.png" height="200">
 
-# Kerwin Dobbs: parallel programming homework
+# Parallel programming homework
+
+## Author: Kerwin Dobbs
+
+## Homework List
+* hw1: Getting acquainted with cisc372 server and GitHub commands
+* hw1: tbd
