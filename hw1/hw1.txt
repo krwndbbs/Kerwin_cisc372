@@ -69,9 +69,23 @@ looks something like this:
 
 5) Now you will see a "clone or download" option in Github. Pull that down and you will see https://github.com/sunitachandra/cisc372-F19.git" sunitachandra will be replaced with your GitHub username. Now go to your local system's terminal and do git clone https://github.com/<username>/cisc372-F19.git 
 
-5) Now in your local terminal you have created a Git enabled folder that will say firstname_cisc372
+5.1) Now in your local terminal you have created a Git enabled folder that will say firstname_cisc372
 
-6) Copy the hw1.txt from canvas into your folder  
+5.2) cd (change directory) into firstname_cisc372 => cd firstname_cisc372
+
+5.3) Create the hw1 folder/directory => mkdir hw1
+
+5.4) cd into hw1 folder => cd hw1
+
+6.0) Create hw1.txt as an empty file => touch hw1.txt
+
+6.1) Use one of the Linux editors (vi, emacs, nano) to open up hw1.txt; copy the text from the hw1.txt file that you found on Canvas; make sure that the hw1.txt file that you opened up on the local terminal is in insert mode; paste the copied text into the local terminal's hw1.txt file; save this latter file.
+
+6.2) At your prompt, enter the ls command to make sure that the hw1.txt file is there.
+
+6.3) Now, cd back to the firstname_cisc372 directory (the previous directory) => cd ..
+
+6.4) You should now be in the firstname_cisc372 directory (if you do the ls command, you should see "README.md" and "hw1")
 
 7) git add hw1 (this will automatically add the hw1.txt under this folder) 
 
