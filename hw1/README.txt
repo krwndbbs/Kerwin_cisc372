@@ -1,7 +1,11 @@
+                            ~~~~~~~~~~~~~~~~~~~~~~~~
+                             HOMEWORK: #1
+                               AUTHOR: Kerwin Dobbs
+                            ~~~~~~~~~~~~~~~~~~~~~~~~
 ===========
  File list
 ===========
-hw1.txt         Homework #1 assignment		
+hw1.txt         Step-by-step description of Homework #1
 Kerwin_hello.c  Simple C program 
 Makefile        Makefile to build Kerwin_hello program
 README.txt      This file
