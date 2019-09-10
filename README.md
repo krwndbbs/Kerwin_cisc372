@@ -6,4 +6,4 @@
 
 ## Homework List
 * hw1: Getting acquainted with cisc372 server and GitHub commands
-* hw1: tbd
+* hw2: tbd
